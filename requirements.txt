@@ -1,0 +1,6 @@
+langchain==0.2.14
+nltk==3.9.1
+streamlit
+bs4
+tiktoken
+selenium
